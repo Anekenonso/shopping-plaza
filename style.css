@@ -1,0 +1,24 @@
+*{
+    text-decoration: none;
+    text-decoration-line: none;
+}
+
+body, html{
+    background-color: rgba(30, 3, 56, 0.801);
+    color: rgb(236, 228, 228);
+}
+
+nav{
+
+    display: flex;
+}
+
+ul{
+    margin-bottom: 1.25rem;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    display: flex;
+    text-align: right;
+    text-justify: auto;
+}
